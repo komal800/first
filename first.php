@@ -1,4 +1,4 @@
 <?php 
-first file
+echo "first";
 
 ?>
